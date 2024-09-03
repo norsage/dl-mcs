@@ -1,9 +1,9 @@
 ## Материалы курса Глубокое обучение (практика) для 3 курса НоД МКН СПбГУ
 
 ### Содержимое
-| Тема              | Ноутбук | Задания |
+| Тема              | Ноутбук и запись | Задания |
 | :---------------- | :------ | :---- |
-| 1. Знакомство с Pytorch: <br> тензоры, autograd, обучение перцептрона | [01_pytorch_intro.ipynb](workshops/01_pytorch_intro.ipynb)  | [01_basics.ipynb](assignments/01_basics.ipynb) <br> [01_mnist.ipynb](assignments/01_mnist.ipynb) |
+| 1. Знакомство с Pytorch: <br> тензоры, autograd, обучение перцептрона | [01_pytorch_intro.ipynb](workshops/01_pytorch_intro.ipynb) <br> [Запись практики](https://disk.yandex.ru/i/la2EklKdychyEA)  | [01_basics.ipynb](assignments/01_basics.ipynb) <br> [01_mnist.ipynb](assignments/01_mnist.ipynb) |
 
 ### Создание окружения conda
 
