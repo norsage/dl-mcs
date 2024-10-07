@@ -7,6 +7,8 @@
 | 2. Как не потерять градиент: <br> функции активации, инициализация, нормализация | [02_initialization_batchnorm.ipynb](workshops/02_initialization_batchnorm.ipynb) <br> [Запись практики](https://disk.yandex.ru/i/xkfF5dY5UvaDlg)| [03_init_act_norm_optim.ipynb](assignments/03_init_act_norm_optim.ipynb)|
 | 3. Регуляризация. <br> Введение в свёрточные сети | [03_regularization.ipynb](workshops/03_regularization.ipynb) <br> [04_cnn_intro.ipynb](workshops/04_cnn_intro.ipynb) <br> [Запись практики](https://disk.yandex.ru/i/lXRfl467B1J8Ug)| |
 | 4. Pytorch Lightning <br> (самостоятельное изучение) | [05_lightning_etc.ipynb](workshops/05_lightning_etc.ipynb) | [04_finetuning_augmentation.ipynb](assignments/04_finetuning_augmentation.ipynb)|
+| 5. Семантическая сегментация | [06_segmentation.ipynb](workshops/06_segmentation.ipynb) | |
+
 Записи практик 3 курса СП можно найти [по ссылке](https://disk.yandex.ru/d/EG-JuOGOdiyYmw)
 
 ### Создание окружения conda
