@@ -8,6 +8,7 @@
 | 3. Регуляризация. <br> Введение в свёрточные сети | [03_regularization.ipynb](workshops/03_regularization.ipynb) <br> [04_cnn_intro.ipynb](workshops/04_cnn_intro.ipynb) <br> [Запись практики](https://disk.yandex.ru/i/lXRfl467B1J8Ug)| |
 | 4. Pytorch Lightning <br> (самостоятельное изучение) | [05_lightning_etc.ipynb](workshops/05_lightning_etc.ipynb) | [04_finetuning_augmentation.ipynb](assignments/04_finetuning_augmentation.ipynb)|
 | 5. Семантическая сегментация | [06_segmentation.ipynb](workshops/06_segmentation.ipynb) <br> [Запись практики](https://disk.yandex.ru/i/uEJGaAHgcHzTIg) | [05_cell_segmentation.ipynb](assignments/05_cell_segmentation.ipynb) |
+| 6. Обнаружение объектов | [07_object_detection.ipynb](workshops/07_object_detection.ipynb) <br> | |
 
 Записи практик 3 курса СП можно найти [по ссылке](https://disk.yandex.ru/d/EG-JuOGOdiyYmw)
 
