@@ -9,6 +9,7 @@
 | 4. Pytorch Lightning <br> (самостоятельное изучение) | [05_lightning_etc.ipynb](workshops/05_lightning_etc.ipynb) | [04_finetuning_augmentation.ipynb](assignments/04_finetuning_augmentation.ipynb)|
 | 5. Семантическая сегментация | [06_segmentation.ipynb](workshops/06_segmentation.ipynb) <br> [Запись практики](https://disk.yandex.ru/i/uEJGaAHgcHzTIg) | [05_cell_segmentation.ipynb](assignments/05_cell_segmentation.ipynb) |
 | 6. Обнаружение объектов | [07_object_detection.ipynb](workshops/07_object_detection.ipynb) <br> [Запись практики](https://disk.yandex.ru/i/7QEID5-6F7TwxQ) | [06_cell_detection.ipynb](assignments/06_cell_detection.ipynb) |
+| 7. Рекуррентные сети | [08_rnn.ipynb](workshops/08_rnn.ipynb) |  |
 
 Записи практик 3 курса СП можно найти [по ссылке](https://disk.yandex.ru/d/EG-JuOGOdiyYmw)
 
