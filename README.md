@@ -11,7 +11,7 @@
 | 6. Обнаружение объектов | [07_object_detection.ipynb](workshops/07_object_detection.ipynb) <br> [Запись практики](https://disk.yandex.ru/i/7QEID5-6F7TwxQ) | [06_cell_detection.ipynb](assignments/06_cell_detection.ipynb) |
 | 7. Рекуррентные сети | [08_rnn.ipynb](workshops/08_rnn.ipynb) <br> [Запись практики](https://disk.yandex.ru/i/45b_pk0YXrjYEw) | [07_amino_acid_rnn.ipynb](assignments/07_amino_acid_rnn.ipynb) |
 | 8. Трансформер: механизм внимания | [09_transformer_attention.ipynb](workshops/09_transformer_attention.ipynb) <br> [Запись практики](https://disk.yandex.ru/i/K3QN07Jt3MrA9w) |  |
-| 9. Трансформер: архитектуры | [10_transformer_model.ipynb](workshops/10_transformer_model.ipynb) | [08_translation.ipynb](assignments/08_translation.ipynb) |
+| 9. Трансформер: архитектуры | [10_transformer_model.ipynb](workshops/10_transformer_model.ipynb) <br> [Запись практики](https://disk.yandex.ru/d/YWUBE4M52gVENA) | [08_translation.ipynb](assignments/08_translation.ipynb) |
 
 Записи практик 3 курса СП можно найти [по ссылке](https://disk.yandex.ru/d/EG-JuOGOdiyYmw)
 
