@@ -15,6 +15,7 @@
 | 10. Глубокое обучение в структурной биологии | [Запись лекции](https://disk.yandex.ru/i/TNHkYiOaAfIQOQ) <br> [Слайды](workshops/ml_in_structural_biology.pdf) |  |
 | 11. Графовые сети | [11_gnn.ipynb](workshops/11_gnn.ipynb) <br> [Запись практики](https://disk.yandex.ru/i/dzNXCBOHc9f5pw) | [09_binding_affinity.ipynb](assignments/09_binding_affinity.ipynb) |
 | 12. Генеративные модели: GAN, VAE | [12_gan.ipynb](workshops/12_gan.ipynb) <br> [13_vae.ipynb](workshops/13_vae.ipynb) <br> [Запись практики](https://disk.yandex.ru/i/fLV_UU1hM-IJ9w) | [10_gan.ipynb](assignments/10_gan.ipynb) <br> [11_vae.ipynb](assignments/11_vae.ipynb) |
+| 13. Генеративные модели: DDPM | [14_ddpm.ipynb](workshops/14_ddpm.ipynb) <br> |  |
 
 Записи практик 3 курса СП можно найти [по ссылке](https://disk.yandex.ru/d/EG-JuOGOdiyYmw)
 
