@@ -1,0 +1,21 @@
+matplotlib==3.10.5
+pandas==2.3.2
+plotly==6.3.0
+scipy==1.16.1
+# Utils
+hydra-core==1.3.2
+tensorboard==2.20.0
+pycocotools==2.0.10
+# jupyter
+jupyter==1.1.1
+notebook==7.3.3
+# Torch
+lightning==2.5.4
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.8.0+cpu
+torchvision==0.23.0+cpu
+# PyG stack
+torch-geometric==2.6.1
+torch_cluster @ https://data.pyg.org/whl/torch-2.8.0%2Bcpu/torch_cluster-1.6.3%2Bpt28cpu-cp313-cp313-linux_x86_64.whl
+torch_scatter @ https://data.pyg.org/whl/torch-2.8.0%2Bcpu/torch_scatter-2.1.2%2Bpt28cpu-cp313-cp313-linux_x86_64.whl
+torch_sparse @ https://data.pyg.org/whl/torch-2.8.0%2Bcpu/torch_sparse-0.6.18%2Bpt28cpu-cp313-cp313-linux_x86_64.whl
