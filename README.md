@@ -18,6 +18,8 @@
 | 8. Трансформер: варианты архитектуры.<br> Введение в графовые нейронные сети.<br> | [Запись 28.10.2025](https://disk.yandex.ru/i/lhK8KTUFKTpCBg) <br> [Слайды](slides/dl_architectures.pdf) <br> [Трансформер: варианты](notebooks/transformer_model.ipynb) <br><br> | [TinyStories: генерация текстов](assignments/tiny_stories.ipynb) <br> [Multi30k: перевод с немецкого на английский](assignments/translation.ipynb) <br>  Дедлайн: 12.11 23:59 <br>|
 | 9. Графовые нейронные сети.<br><br><br> | [Запись 11.11.2025](https://disk.yandex.ru/i/44PmP6r5Q2jV8A) <br> [GNN и Pytorch Geometric](notebooks/gnn.ipynb) <br><br> | [Предсказание свободной энергии связывания белков](assignments/binding_affinity.ipynb) <br>  Дедлайн: 26.11 23:59 <br>|
 | 10. Генеративные состязательные сети.<br>Вариационный автоэнкодер.<br>Denoising diffusion.<br><br><br> | [Запись 18.11.2025](https://disk.yandex.ru/i/ssao-6vtWVPzzQ) <br> [GAN](notebooks/gan.ipynb) <br> [VAE](notebooks/vae.ipynb)<br>[DDPM](notebooks/ddpm.ipynb) (самостоятельное изучение)<br><br> | [GAN для датасета CelebA](assignments/gan.ipynb) <br> Дедлайн: 03.12 23:59 <br> [VAE для датасета CelebA](assignments/vae.ipynb)<br>[DDPM для датасета CelebA](assignments/ddpm_ddim.ipynb) <br> Дедлайн: 10.12 23:59|
+| 11. Управление экспериментами <br><br> | [Запись 25.11.2025](https://disk.yandex.ru/i/qilArr2MZ4gVrQ) <br> [Слайды](slides/experiments.pdf) |  |
+
 
 ### Создание окружения
 Версии пакетов в списке зависимостей зафиксированы под python 3.13 и pytorch 2.8.0. Можно использовать другие версии, но в этом случае будьте готовы самостоятельно решать проблемы с зависимостями (впрочем, это полезный опыт).
